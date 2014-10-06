@@ -1,0 +1,69 @@
+{
+  "name": "Oxygen",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "Internal",
+  "category": "Sans Serif",
+  "size": 36354,
+  "fonts": [
+    {
+      "name": "Oxygen",
+      "style": "normal",
+      "weight": 300,
+      "filename": "Oxygen-Light-TTF.ttf",
+      "postScriptName": "Oxygen-Light",
+      "fullName": "Oxygen Light",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Oxygen",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Oxygen-Bold-TTF.ttf",
+      "postScriptName": "Oxygen-Bold",
+      "fullName": "Oxygen Bold",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Oxygen",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Oxygen-Bold.ttf",
+      "postScriptName": "Oxygen-Bold",
+      "fullName": "Oxygen Bold",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Oxygen",
+      "style": "normal",
+      "weight": 300,
+      "filename": "Oxygen-Light.ttf",
+      "postScriptName": "Oxygen-Light",
+      "fullName": "Oxygen Light",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Oxygen",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Oxygen-Regular.ttf",
+      "postScriptName": "Oxygen-Regular",
+      "fullName": "Oxygen Regular",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Oxygen",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Oxygen-Regular-TTF.ttf",
+      "postScriptName": "Oxygen-Regular",
+      "fullName": "Oxygen Regular",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-03-29"
+}

@@ -1,0 +1,10 @@
+commit: HEAD
+process_files: [src/Oxygen-Regular.ufo, src/Oxygen-Light.ufo, src/Oxygen-Bold.ufo,
+  Oxygen-Bold.ttf.ttx, Oxygen-Light.ttf.ttx, Oxygen-Regular.ttf.ttx, src/Oxygen-Regular-unhinted.ttf.ttx,
+  src/Oxygen-Light-unhinted.ttf.ttx, src/Oxygen-Bold.otf.ttx, src/Oxygen-Light.otf.ttx,
+  src/Oxygen-Regular.otf.ttx, src/Oxygen-Bold-unhinted.ttf.ttx, src/Oxygen-Bold.sfd,
+  src/Oxygen-Light-TTF.sfd, src/Oxygen-Regular.sfd, src/Oxygen-Bold-TTF.sfd, src/Oxygen-Regular-TTF.sfd,
+  src/Oxygen-Light.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
